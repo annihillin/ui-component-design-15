@@ -43,7 +43,7 @@ body {
    margin-left: 30px;
    text-decoration: none;
    margin-top: 20px;
-   display: block;
+   display: inline-block;
 }
 .upper ul a:hover {
    text-decoration: underline;
