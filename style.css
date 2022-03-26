@@ -128,10 +128,10 @@ li span {
 	left: 10px;
 	top: 15%;
 }
-.footer div:hover {
+.footer div:not(.footer-div-select):hover {
    background-color: rgba(53,56,84, .45);
 }
-.footer div:first-of-type {
+.footer-div-select {
    background-color: #353854;
    box-shadow: var(--boxShadow);
 }
